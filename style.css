@@ -1,0 +1,29 @@
+body {
+    padding: 8px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+img {
+    width: 360px;
+    height: auto;
+}
+
+address>p {
+    border: red solid 1px;
+    width: max-content;
+    margin: 2px;
+    padding: 2px 4px;
+}
+
+.citation {
+    margin: 16px;
+    padding: 4px;
+    border: blue dotted 1px;
+    max-width: fit-content;
+}
